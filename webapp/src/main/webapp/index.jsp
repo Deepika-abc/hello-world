@@ -24,14 +24,12 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you agree to our <a href="https://www.google.com/search?q=term+and+policy+of+youtube&rlz=1C1CHBF_enIN979IN983&oq=term+and+poli&aqs=chrome.2.0i512l3j69i57j0i22i30l6.6171j0j7&sourceid=chrome&ie=UTF-8">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, All the best  </h1>
-
-  
+   <h1> Thankyou, Happy Learning, All the bes  </h1>
 </form>
